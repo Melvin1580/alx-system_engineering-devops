@@ -1,1 +1,1 @@
-Inside 0x03-shell_variables_expansion
+The 0-alias file contain the script that create an alias
